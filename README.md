@@ -26,4 +26,4 @@ https://user-images.githubusercontent.com/84860191/180825486-1132bb8e-6d09-4040-
 </p>
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/eneesakan"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/eneesakan" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/eneesakan"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/eneesakan" /></a></p><br><br>
